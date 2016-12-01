@@ -1,0 +1,33 @@
+html,body {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+}
+#gauche {
+    background-color: blue;
+    width:  33.30%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    font-size: 50px;
+}
+#droite {
+    width: 33.33%;
+    background-color: red;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 50px;
+    
+}
+
+#milieu {
+    width: 33.33%;
+    height: 100%;
+    background-color: green;
+    left: 33.33%;
+    position: absolute;
+    font-size: 50px;
+}
