@@ -9,6 +9,7 @@
          float: center;
          position: relative;
 	text-align: center;
+	width: 100%;
 
 
 }
@@ -38,7 +39,8 @@
 	background-color: #111;
 }
 /* Corp */
-body{
+body{    
+         background-color: #939DA1;
 	float : center;
 	font-family: sans-serif;
 	font-weight: 100;
@@ -46,18 +48,19 @@ body{
 	margin: 0;
 	margin-bottom : 50px;
 	padding: 0;	
-	text-align: center;	
+	text-align: center;
+		
 }
 
 
 /* Titres */
 h1{
-	color: grey;
+	color: blue;
 	font-size: 70px;
 	font-weight: 100;	
 }
 h2{
-	color: #25B7A4;
+	color: blue;
 	clear: both;
 	font-size: 40px;
 	font-weight: 100;
@@ -94,10 +97,12 @@ h2{
 /*Expériencepro*/
 
 .experiencepro {
+        margin-top: 35px;
 
 }
 
 .titre {
+     
 }
 
 .place {
