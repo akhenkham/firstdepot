@@ -11,8 +11,8 @@
 	text-align: center;
 	width: 100%;
 
-
 }
+
 .nav ul {
 	background-color: #333;
 	list-style-type: none;
@@ -40,14 +40,14 @@
 }
 /* Corp */
 body{    
-         background-color: #939DA1;
+         background-color: #325152;
 	float : center;
 	font-family: sans-serif;
 	font-weight: 100;
 	position: relative;
 	margin: 0;
 	margin-bottom : 50px;
-	padding: 0;	
+	padding: 0;
 	text-align: center;
 		
 }
@@ -55,8 +55,8 @@ body{
 
 /* Titres */
 h1{
-	color: blue;
-	font-size: 70px;
+	color: #;
+	font-size: 60px;
 	font-weight: 100;	
 }
 h2{
@@ -69,6 +69,7 @@ h2{
 
 
 /*Intro*/
+
 .intro{
 	display: inline-block;
 	margin: auto;
@@ -98,6 +99,7 @@ h2{
 
 .experiencepro {
         margin-top: 35px;
+        padding-left: 25px;
 
 }
 
@@ -106,6 +108,14 @@ h2{
 }
 
 .place {
+        color: #8E3557:
+        display: inline-block;
+        font-weight: 500:
+        font-size: 17px;
+        
+        
+        
+        
 
 }
 
@@ -114,13 +124,14 @@ h2{
 }
 
 /*Formation*/
+
 .formation {
 	margin-top: 30px;
 	padding-left:30px;
 
 }
 
-.annee{
+.annee {
 	color: #8E3557;
 	display: inline-block;	
 	font-weight: 500;
@@ -130,13 +141,17 @@ h2{
 
 }
 
-.diplome{
+.diplome {
 	display: inline-block;
 }
 
 .lieu{
          color: gray;
-	font-style : italic;
 	font-size: 12px;
+	font-style : italic;
 
 }
+
+             
+            
+
